@@ -2,7 +2,7 @@
 
 Jogo da memória com imagens da personagem Sakura Kinomoto, do anime *Cardcaptor Sakura*, como atividade prática do bootcamp *JavaScript Game Developer*, ofertada pela Digital Innovation One.
 
-foto aqui
+![sakura frente](https://user-images.githubusercontent.com/93830634/184262014-3511effb-0206-4381-ae37-cdf888d33143.png)
 
 
 ### Status do projeto
