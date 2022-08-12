@@ -10,7 +10,7 @@ Concluído!!!:cherry_blossom:
 
 
 ## Demonstração da aplicação
-clique aqui
+[clique aqui para jogar](https://renatabc.github.io/memory-s-game-cardcaptors-sakura/)
 ![sakura verso](https://user-images.githubusercontent.com/93830634/184262141-42ab09cb-9170-44d4-a35b-eeb7b5cd5717.png)
 
 
